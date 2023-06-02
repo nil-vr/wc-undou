@@ -34,7 +34,7 @@ jobs:
           fi
           git -C out reset --hard
       - name: Build
-        run: wasmer run --dir events --dir out wc-compiler.wasm ./events ./out
+        run: wasmer run --dir . wc-compiler.wasm events out
       - name: Save state
         run: |
           git config user.name github-actions
