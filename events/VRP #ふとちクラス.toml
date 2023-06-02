@@ -1,0 +1,12 @@
+timezone = "Asia/Tokyo"
+start = "22:00"
+duration = "1:00"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "#ふとちクラス"
+
+[[join]]
+name = "FUTOTI［ふとち］"
+id = "usr_5085ab96-75a2-4722-9029-1d16b8aa5e25"
+
+[days.tuesday]

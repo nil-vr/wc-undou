@@ -1,0 +1,10 @@
+timezone = "America/New_York"
+start = "8:00"
+duration = "1:00"
+hashtag = "#VRC筋肉部"
+group = "lahyx.2684"
+discord = "wQad3RR"
+
+[[join]]
+name = "lahyx"
+id = "usr_1d11cfad-f909-4310-9208-0daf5a953194"

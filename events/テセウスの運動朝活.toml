@@ -1,0 +1,6 @@
+timezone = "Asia/Tokyo"
+start = "8:05"
+duration = "0:20"
+hashtag = "#テセウスの運動朝活"
+group = "VMACHO.3774"
+platforms = ["pc", "quest"]

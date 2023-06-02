@@ -1,0 +1,15 @@
+timezone = "Asia/Tokyo"
+start = "21:00"
+duration = "1:00"
+hashtag = "#VRC撃剣部"
+discord = "tuqBDxs3VT"
+twitter = "@Noih"
+
+[[join]]
+name = "Noih"
+id = "usr_3991d995-ca46-462a-9b8a-274bf876fb1b"
+
+[days.monday]
+start = "22:00"
+
+[days.thursday]

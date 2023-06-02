@@ -1,0 +1,16 @@
+timezone = "Asia/Tokyo"
+start = "20:00"
+duration = "0:50"
+platforms = ["pc", "quest"]
+hashtag = "#フィットボクシング同好会"
+twitter = "@Gendo_VR"
+
+[[join]]
+name = "ゲンドウ"
+id = "usr_13afbf23-3ad0-46d7-b984-ce634a7a089d"
+
+[days.monday]
+[days.tuesday]
+[days.wednesday]
+[days.thursday]
+[days.friday]

@@ -1,0 +1,10 @@
+timezone = "Asia/Tokyo"
+start = "22:00"
+duration = "1:00"
+hashtag = "#マイジュウ"
+twitter = "@maijuu_vrc"
+discord = "Q5QKg833xz"
+
+[[join]]
+name = "tommie_500"
+id = "usr_d12772e9-38dd-4f85-892e-e73b3aafe2a4"

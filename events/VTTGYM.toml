@@ -1,0 +1,12 @@
+timezone = "Asia/Tokyo"
+start = "21:00"
+duration = "1:00"
+platforms = ["pc", "quest"]
+discord = "GqVwDaEFP9"
+hashtag = "#VTTGYM"
+
+[[join]]
+name = "zip_san"
+id = "usr_f07431b2-9433-448d-8ed5-56fbd05f4923"
+
+[days.saturday]

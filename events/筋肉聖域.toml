@@ -1,0 +1,9 @@
+timezone = "Asia/Tokyo"
+start = "18:00"
+duration = "1:30"
+hashtag = "#筋肉聖域"
+platforms = ["pc", "quest"]
+
+[world]
+name = "筋肉聖域 -MUSCLE SANCTUARY-"
+id = "wrld_c938f0f2-1a81-443d-9bcb-3d66a8fed733"

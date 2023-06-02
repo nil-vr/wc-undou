@@ -1,0 +1,7 @@
+timezone = "Asia/Tokyo"
+start = "7:30"
+duration = "0:30"
+group = "QUEST.7435"
+discord = "cVyExDAKmw"
+platforms = ["pc", "quest"]
+hashtag = "#questラジオ体操"

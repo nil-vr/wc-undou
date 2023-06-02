@@ -1,0 +1,11 @@
+timezone = "Asia/Tokyo"
+start = "11:00"
+duration = "1:00"
+hashtag = "#squatgym"
+
+[[join]]
+name = "みつき72"
+id = "usr_22b1c735-47e1-4a6d-a151-b85d4c5b5f02"
+
+[days.saturday]
+[days.sunday]

@@ -1,0 +1,12 @@
+timezone = "Asia/Tokyo"
+start = "20:30"
+duration = "0:30"
+platforms = ["pc", "quest"]
+hashtag = "#LPKと踊ろう会"
+
+[[join]]
+name = "せんたた（Sentata）"
+id = "usr_61680489-731d-4da3-89df-259a36409735"
+
+[days.sunday]
+

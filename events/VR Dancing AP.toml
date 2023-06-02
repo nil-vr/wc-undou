@@ -1,0 +1,10 @@
+name = "VR Dancing AP"
+timezone = "Australia/Sydney"
+start = "20:00"
+duration = "2:00"
+discord = "vrdancing"
+twitter = "@VRD_Official"
+hashtag = "#vrdancing"
+web = "https://vrdancing.club/"
+
+[days.thursday]

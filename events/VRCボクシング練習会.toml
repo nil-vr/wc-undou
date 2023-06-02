@@ -1,0 +1,16 @@
+timezone = "Asia/Tokyo"
+start = "21:00"
+duration = "2:00"
+discord = "PKqK6VhxPP"
+twitter = "@VrcBoxing"
+hashtag = "#VRCボクシング大会"
+
+[[join]]
+name = "torisan1048"
+id = "usr_0cf16222-a75e-4cb5-abfa-d46662833dbc"
+
+[days.thursday]
+[days.sunday]
+
+[languages.en]
+name = "VRC Boxing"

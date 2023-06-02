@@ -1,0 +1,11 @@
+name = "VR Dancing NA"
+timezone = "CST6CDT"
+start = "19:00"
+duration = "2:00"
+discord = "vrdancing"
+twitter = "@VRD_Official"
+hashtag = "#vrdancing"
+web = "https://vrdancing.club/"
+
+[days.wednesday]
+[days.saturday]

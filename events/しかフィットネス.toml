@@ -1,0 +1,24 @@
+timezone = "Asia/Tokyo"
+start = "20:30"
+duration = "0:30"
+hashtag = "#SFN_vrc"
+group = "SIKA.0541"
+discord = "pXeSvFs9Nn"
+
+canceled = [
+  "2023-04-26",
+]
+
+confirmed = [
+  "2023-04-24",
+  "2023-04-25",
+  "2023-04-27",
+  "2023-04-28",
+  "2023-05-20",
+]
+
+[days.monday]
+[days.tuesday]
+[days.wednesday]
+[days.thursday]
+[days.friday]

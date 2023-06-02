@@ -1,0 +1,12 @@
+timezone = "Asia/Tokyo"
+start = "21:00"
+duration = "1:00"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "#ふぁゔクラス"
+
+[[join]]
+name = "ふぁゔ／Favnir"
+id = "usr_ed67397c-6208-42fb-97e1-57a8b2061e4d"
+
+[days.wednesday]

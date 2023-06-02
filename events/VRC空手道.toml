@@ -1,0 +1,13 @@
+timezone = "Asia/Tokyo"
+start = "19:45"
+duration = "1:45"
+hashtag = "#VRC空手道"
+twitter = "@GnonTakumi"
+
+[[join]]
+name = "Takumi-Ganon86"
+id = "usr_29f6ced0-c14f-4f9b-bd76-865975105b81"
+
+[days.tuesday]
+[days.friday]
+start = "20:45"

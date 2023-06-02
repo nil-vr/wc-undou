@@ -1,0 +1,18 @@
+timezone = "Asia/Tokyo"
+start = "22:30"
+duration = "0:30"
+twitter = "@genkai_squat"
+hashtag = "#限界スクワット部"
+group = "0325.4547"
+discord = "Y3972EP"
+
+[[join]]
+name = "shigeki1439"
+id = "usr_a130f7d3-3402-4e5b-a18f-c155a6220db5"
+
+[days.tuesday]
+[days.thursday]
+[days.sunday]
+
+[languages.en]
+name = "Overkill! Squat Club"

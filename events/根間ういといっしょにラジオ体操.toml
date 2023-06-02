@@ -1,0 +1,12 @@
+timezone = "Asia/Tokyo"
+start = "8:00"
+duration = "0:05"
+hashtag = "#バーチャル沖縄"
+platforms = ["pc", "quest"]
+
+[world]
+name = "VirtualOkinawa_Kokusai-dori_［JP］［EN］"
+id = "wrld_a26d13d0-34d4-4bff-b0ca-4f56667bb84c"
+
+[languages.en]
+name = "Radio Calisthenics with Nema Ui"

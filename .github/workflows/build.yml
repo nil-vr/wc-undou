@@ -1,0 +1,60 @@
+on:
+  push:
+    branches: [$default-branch]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Wasmer
+        uses: wasmerio/setup-wasmer@v2
+      - name: Download compiler
+        run: curl -fsSLO https://github.com/nil-vr/wc-compiler/releases/download/0.1.0/wc-compiler.wasm
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Get state
+        # If this is the first time there won't be a state branch.
+        # If we fail to download the state branch for some other reason it's okay.
+        # We'll fail to push the new state branch if one already exists.
+        run: |
+          if git fetch --depth=1 origin refs/heads/state:refs/heads/state ; then
+            git worktree add out refs/heads/state
+          else
+            git worktree add out -d HEAD
+            git -C state checkout --orphan state
+          fi
+          git -C state reset --hard
+      - name: Build
+        run: wasmer run --dir events --dir out wc-compiler.wasm ./events ./out
+      - name: Save state
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git -C out add -A
+          git -C out commit -m "build ${GITHUB_SHA}"
+          git push origin refs/heads/state:refs/heads/state
+      - name: Upload
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: out
+
+  publish:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.ouputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v2

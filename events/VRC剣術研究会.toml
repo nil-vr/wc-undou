@@ -1,0 +1,18 @@
+timezone = "Asia/Tokyo"
+start = "20:30"
+duration = "1:00"
+discord = "tuqBDxs3VT"
+hashtag = "#VRC剣術研究会"
+
+[[join]]
+name = "桜庭なつ"
+id = "usr_28d2a05b-f0a9-4f35-a6ac-8242dde2a683"
+
+[[join]]
+name = "Mikankawa"
+id = "usr_6966e037-f4ab-46db-814d-76e8a83cc7ff"
+
+[days.wednesday]
+
+[languages.en]
+name = "Japanese Swordsmanship Seminar on VRChat"

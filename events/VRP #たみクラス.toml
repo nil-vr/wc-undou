@@ -1,0 +1,12 @@
+timezone = "Asia/Tokyo"
+start = "20:30"
+duration = "1:00"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "#たみクラス"
+
+[[join]]
+name = "たみ（People）"
+id = "usr_f78df0e3-821c-467c-934d-ae6bcd91eebd"
+
+[days.monday]

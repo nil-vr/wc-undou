@@ -1,0 +1,20 @@
+timezone = "Asia/Tokyo"
+start = "19:30"
+duration = "0:30"
+hashtag = "#腰痛予防部"
+platforms = ["pc", "quest"]
+
+canceled = [
+  "2023-05-12",
+]
+
+[[join]]
+name = "ぎーくん＠choribeans"
+id = "usr_8cf72d00-4ea8-41f2-afac-a04afca339a4"
+
+[days.monday]
+[days.tuesday]
+[days.wednesday]
+[days.thursday]
+[days.friday]
+[days.saturday]

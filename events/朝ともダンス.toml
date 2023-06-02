@@ -1,0 +1,9 @@
+timezone = "Asia/Tokyo"
+start = "6:22"
+duration = "1:08"
+hashtag = "#朝ともダンス"
+group = "ATD.5698"
+
+[[join]]
+name = "tomo643"
+id = "usr_152ab280-9d80-4810-a68a-a5e1ce1bfe69"

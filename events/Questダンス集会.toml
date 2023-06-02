@@ -1,0 +1,21 @@
+timezone = "Asia/Tokyo"
+start = "19:30"
+duration = "1:00"
+group = "QDANCE.4872"
+platforms = ["pc", "quest"]
+hashtag = "#Questダンス集会"
+
+[days.tuesday]
+[days.friday]
+
+[[join]]
+name = "k0sm0sx"
+id = "usr_0e1b07c9-d415-4998-9e0d-1b12f141a684"
+
+[[join]]
+name = "POYON"
+id = "usr_401d501a-f17f-4275-af5e-a4e3535c748a"
+
+[[join]]
+name = "ゲンドウ"
+id = "usr_13afbf23-3ad0-46d7-b984-ce634a7a089d"

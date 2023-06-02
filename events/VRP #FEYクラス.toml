@@ -1,0 +1,20 @@
+timezone = "Asia/Tokyo"
+start = "22:00"
+duration = "1:00"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "#FEYクラス"
+
+[[join]]
+name = "ふぃど／Fid_Ashiho"
+id = "usr_4be2d55f-fd23-48e5-b747-7714f24465a4"
+
+[[join]]
+name = "Ender_Year えんだー"
+id = "usr_04e4f579-d1c6-4fe1-8403-3a31b951cd89"
+
+[[join]]
+name = "Yamagoo"
+id = "usr_00437448-edc2-4ff4-9675-1a3b86f35dd5"
+
+[days.friday]
