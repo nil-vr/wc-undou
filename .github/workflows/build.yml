@@ -30,9 +30,9 @@ jobs:
             git worktree add out refs/heads/state
           else
             git worktree add out -d HEAD
-            git -C state checkout --orphan state
+            git -C out checkout --orphan state
           fi
-          git -C state reset --hard
+          git -C out reset --hard
       - name: Build
         run: wasmer run --dir events --dir out wc-compiler.wasm ./events ./out
       - name: Save state
