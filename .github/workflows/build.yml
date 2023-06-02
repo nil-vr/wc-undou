@@ -18,7 +18,7 @@ jobs:
       - name: Setup Wasmer
         uses: wasmerio/setup-wasmer@v2
       - name: Download compiler
-        run: curl -fsSLO https://github.com/nil-vr/wc-compiler/releases/download/0.1.0/wc-compiler.wasm
+        run: curl -fLO https://github.com/nil-vr/wc-compiler/releases/download/0.1.0/wc-compiler.wasm
       - name: Checkout
         uses: actions/checkout@v3
       - name: Get state
