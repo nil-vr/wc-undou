@@ -20,7 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Download compiler
-        run: curl -fLO https://github.com/nil-vr/wc-compiler/releases/download/0.1.0/wc-compiler.wasm
+        run: curl -fLO https://github.com/nil-vr/wc-compiler/releases/download/0.2.0/wc-compiler.wasm
       - name: Get state
         # If this is the first time there won't be a state branch.
         # If we fail to download the state branch for some other reason it's okay.
