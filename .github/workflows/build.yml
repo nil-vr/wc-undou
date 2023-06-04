@@ -57,5 +57,8 @@ jobs:
       url: ${{ steps.deployment.ouputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - id: deployment
+      - name: Configure
+        uses: actions/configure-pages@v2
+      - name: Deploy
+        id: deployment
         uses: actions/deploy-pages@v2
