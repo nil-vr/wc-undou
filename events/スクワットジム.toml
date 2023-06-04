@@ -1,7 +1,7 @@
 timezone = "Asia/Tokyo"
 start = "11:00"
 duration = "1:00"
-hashtag = "#squatgym"
+hashtag = "squatgym"
 
 [[join]]
 name = "みつき72"

@@ -1,8 +1,8 @@
 timezone = "Asia/Tokyo"
 start = "19:45"
 duration = "1:45"
-hashtag = "#VRC空手道"
-twitter = "@GnonTakumi"
+hashtag = "VRC空手道"
+twitter = "GnonTakumi"
 
 [[join]]
 name = "Takumi-Ganon86"

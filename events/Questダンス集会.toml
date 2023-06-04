@@ -3,7 +3,7 @@ start = "19:30"
 duration = "1:00"
 group = "QDANCE.4872"
 platforms = ["pc", "quest"]
-hashtag = "#Questダンス集会"
+hashtag = "Questダンス集会"
 
 [days.tuesday]
 [days.friday]

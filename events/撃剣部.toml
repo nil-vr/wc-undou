@@ -1,9 +1,9 @@
 timezone = "Asia/Tokyo"
 start = "21:00"
 duration = "1:00"
-hashtag = "#VRC撃剣部"
+hashtag = "VRC撃剣部"
 discord = "tuqBDxs3VT"
-twitter = "@Noih"
+twitter = "Noih"
 
 [[join]]
 name = "Noih"

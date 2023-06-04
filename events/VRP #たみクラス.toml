@@ -3,7 +3,7 @@ start = "20:30"
 duration = "1:00"
 group = "VRP.4653"
 discord = "NCq7kvtCMJ"
-hashtag = "#たみクラス"
+hashtag = "たみクラス"
 
 [[join]]
 name = "たみ（People）"

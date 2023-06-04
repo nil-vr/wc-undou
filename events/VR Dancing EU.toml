@@ -3,8 +3,8 @@ timezone = "CET"
 start = "20:00"
 duration = "2:00"
 discord = "vrdancing"
-twitter = "@VRD_Official"
-hashtag = "#vrdancing"
+twitter = "VRD_Official"
+hashtag = "vrdancing"
 web = "https://vrdancing.club/"
 
 [days.wednesday]

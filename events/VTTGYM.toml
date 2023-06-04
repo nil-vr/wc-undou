@@ -3,7 +3,7 @@ start = "21:00"
 duration = "1:00"
 platforms = ["pc", "quest"]
 discord = "GqVwDaEFP9"
-hashtag = "#VTTGYM"
+hashtag = "VTTGYM"
 
 [[join]]
 name = "zip_san"

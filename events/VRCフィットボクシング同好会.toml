@@ -2,8 +2,8 @@ timezone = "Asia/Tokyo"
 start = "20:00"
 duration = "0:50"
 platforms = ["pc", "quest"]
-hashtag = "#フィットボクシング同好会"
-twitter = "@Gendo_VR"
+hashtag = "フィットボクシング同好会"
+twitter = "Gendo_VR"
 
 [[join]]
 name = "ゲンドウ"

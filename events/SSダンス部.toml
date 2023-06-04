@@ -1,7 +1,7 @@
 timezone = "Asia/Tokyo"
 start = "22:00"
 duration = "1:00"
-hashtag = "#SSダンス部"
+hashtag = "SSダンス部"
 
 [days.wednesday]
 

@@ -1,7 +1,7 @@
 timezone = "Asia/Tokyo"
 start = "20:30"
 duration = "1:00"
-hashtag = "#ぽっともダンス部"
+hashtag = "ぽっともダンス部"
 group = "POT.2580"
 
 [days.tuesday]

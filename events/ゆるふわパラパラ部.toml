@@ -1,8 +1,8 @@
 timezone = "Asia/Tokyo"
 start = "21:30"
 duration = "1:00"
-hashtag = "#ゆるふわパラパラ部"
-twitter = "@yuru_para"
+hashtag = "ゆるふわパラパラ部"
+twitter = "yuru_para"
 group = "PARA.6038"
 platforms = ["pc", "quest"]
 

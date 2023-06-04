@@ -3,8 +3,8 @@ start = "21:00"
 duration = "1:00"
 platforms = ["pc", "quest"]
 discord = "JVa9VrhQ6U"
-hashtag = "#VRCフィットボクシング集会"
-twitter = "@fi_sound"
+hashtag = "VRCフィットボクシング集会"
+twitter = "fi_sound"
 
 [[join]]
 name = "fiisound（ふぃー）"

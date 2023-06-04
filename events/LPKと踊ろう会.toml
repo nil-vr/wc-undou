@@ -2,7 +2,7 @@ timezone = "Asia/Tokyo"
 start = "20:30"
 duration = "0:30"
 platforms = ["pc", "quest"]
-hashtag = "#LPKと踊ろう会"
+hashtag = "LPKと踊ろう会"
 
 [[join]]
 name = "せんたた（Sentata）"

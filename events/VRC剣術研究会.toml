@@ -2,7 +2,7 @@ timezone = "Asia/Tokyo"
 start = "20:30"
 duration = "1:00"
 discord = "tuqBDxs3VT"
-hashtag = "#VRC剣術研究会"
+hashtag = "VRC剣術研究会"
 
 [[join]]
 name = "桜庭なつ"

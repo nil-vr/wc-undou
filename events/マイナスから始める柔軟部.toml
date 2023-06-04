@@ -1,8 +1,8 @@
 timezone = "Asia/Tokyo"
 start = "22:00"
 duration = "1:00"
-hashtag = "#マイジュウ"
-twitter = "@maijuu_vrc"
+hashtag = "マイジュウ"
+twitter = "maijuu_vrc"
 discord = "Q5QKg833xz"
 
 [[join]]

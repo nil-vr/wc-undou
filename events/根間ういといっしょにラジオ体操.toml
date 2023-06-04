@@ -1,7 +1,7 @@
 timezone = "Asia/Tokyo"
 start = "8:00"
 duration = "0:05"
-hashtag = "#バーチャル沖縄"
+hashtag = "バーチャル沖縄"
 platforms = ["pc", "quest"]
 
 [world]

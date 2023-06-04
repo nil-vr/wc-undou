@@ -1,7 +1,7 @@
 timezone = "Asia/Tokyo"
 start = "19:30"
 duration = "0:30"
-hashtag = "#腰痛予防部"
+hashtag = "腰痛予防部"
 platforms = ["pc", "quest"]
 
 canceled = [

@@ -3,8 +3,8 @@ start = "19:30"
 duration = "0:45"
 group = "KUREUN.7765"
 platforms = ["pc", "quest"]
-twitter = "@kureun_official"
-hashtag = "#くれ運"
+twitter = "kureun_official"
+hashtag = "くれ運"
 
 [[join]]
 name = "くれこ（kureko）"
