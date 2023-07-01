@@ -1,5 +1,7 @@
 title = "Regular Exercise Event Calendar"
 link = "https://github.com/nil-vr/wc-undou"
+description = "This calendar contains regularly scheduled exercise and dance events in VRChat. Please send corrections to the GitHub."
 
 [languages.ja]
-title = "定期運動イベントカレンダー"
+title = "定期な運動イベントカレンダー"
+description = "このカレンダーではVRCで定期な運動やダンスイベントがあります。このGitHubに修正を送ってください。"
