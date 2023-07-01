@@ -1,0 +1,12 @@
+timezone = "Asia/Tokyo"
+start = "22:00"
+duration = "1:00"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "りりりクラス"
+
+[[join]]
+name = "莉梨里（Ririri）"
+id = "usr_535f58ee-eec0-4feb-add5-4c74f49c78a7"
+
+[days.thursday]

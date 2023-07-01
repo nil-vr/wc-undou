@@ -4,6 +4,13 @@ duration = "1:00"
 group = "VRP.4653"
 discord = "NCq7kvtCMJ"
 hashtag = "たみクラス"
+canceled = [
+    "2023-07-3",
+    "2023-07-10",
+    "2023-07-17",
+    "2023-07-24",
+    "2023-07-31",
+]
 
 [[join]]
 name = "たみ（People）"

@@ -1,0 +1,10 @@
+timezone = "Asia/Tokyo"
+start = "00:00"
+duration = "0:30"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "Sakaiクラス"
+
+[[join]]
+name = "sakaiさかい"
+id = "usr_2c9bb85e-1f48-458f-9ac9-653328516dc6"

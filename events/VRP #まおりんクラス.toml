@@ -1,0 +1,17 @@
+timezone = "Asia/Tokyo"
+start = "22:00"
+duration = "0:45"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "まおりんクラス"
+
+[days.monday]
+start = "22:00"
+
+[days.thursday]
+start = "21:00"
+
+[days.saturday]
+start = "8:30"
+duration = "1:00"
+weeks = [2, 4]

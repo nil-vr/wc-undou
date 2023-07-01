@@ -1,0 +1,11 @@
+timezone = "Asia/Tokyo"
+start = "20:30"
+duration = "1:00"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "なっつクラス"
+canceled = [
+    "2023-07-14",
+]
+
+[days.friday]

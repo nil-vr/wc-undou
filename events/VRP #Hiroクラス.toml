@@ -1,0 +1,12 @@
+timezone = "Asia/Tokyo"
+start = "21:00"
+duration = "1:00"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "Hiroクラス"
+
+[[join]]
+name = "HiroDanceTroupe"
+id = "usr_c247119b-10a5-4edd-9b7b-3604479eb548"
+
+[days.thursday]

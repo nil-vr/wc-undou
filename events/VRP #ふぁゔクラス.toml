@@ -4,6 +4,10 @@ duration = "1:00"
 group = "VRP.4653"
 discord = "NCq7kvtCMJ"
 hashtag = "ふぁゔクラス"
+canceled = [
+    "2023-07-05",
+    "2023-07-12",
+]
 
 [[join]]
 name = "ふぁゔ／Favnir"
