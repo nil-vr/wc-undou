@@ -4,9 +4,6 @@ duration = "1:00"
 group = "VRP.4653"
 discord = "NCq7kvtCMJ"
 hashtag = "なっつクラス"
-canceled = [
-    "2023-07-14",
-]
 
 [[join]]
 name = "なつせ_nuts"
