@@ -3,11 +3,11 @@ start = "22:00"
 duration = "1:00"
 group = "VRP.4653"
 discord = "NCq7kvtCMJ"
-hashtag = "FEYクラス"
+hashtag = "HEYクラス"
 
 [[join]]
-name = "ふぃど／Fid_Ashiho"
-id = "usr_4be2d55f-fd23-48e5-b747-7714f24465a4"
+name = "Hilogenome"
+id = "usr_da2ef819-889c-40d3-928e-db865849383e"
 
 [[join]]
 name = "Ender_Year えんだー"

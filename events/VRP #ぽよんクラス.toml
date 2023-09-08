@@ -1,0 +1,12 @@
+timezone = "Asia/Tokyo"
+start = "21:00"
+duration = "1:00"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "ぽよんクラス"
+
+[[join]]
+name = "POYON"
+id = "usr_401d501a-f17f-4275-af5e-a4e3535c748a"
+
+[days.thursday]
