@@ -1,0 +1,15 @@
+timezone = "Asia/Tokyo"
+start = "21:00"
+duration = "2:00"
+twitter = "pumpingironvrc"
+hashtag = "VRCパンピングアイアン"
+discord = "adGyCg4UZD"
+
+[[join]]
+user = "The_Binary_V"
+id = "usr_367ea8f6-717a-4d85-9dbc-d07813eb89fc"
+
+[days.tuesday]
+
+[languages.en]
+name = "Pumping Iron"
