@@ -1,8 +1,8 @@
 timezone = "Asia/Tokyo"
-start = "22:00"
+start = "21:00"
 duration = "2:00"
 hashtag = "SSダンス部"
-weeks = [2, 3, 4, 5]
+weeks = [1]
 
 [days.wednesday]
 
@@ -10,5 +10,5 @@ weeks = [2, 3, 4, 5]
 name = "SS!Dance Club"
 
 [[join]]
-name = "sui（すい）"
-id = "usr_f875f33b-6365-41c5-8a55-925e9086e275"
+name = "きたむぅ"
+id = "usr_179de95b-409b-4ef6-a934-fadbce3da228"
