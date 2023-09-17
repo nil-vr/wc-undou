@@ -41,7 +41,7 @@ jobs:
           git config user.email github-actions@github.com
           git -C out add -A
           git -C out commit -m "build ${GITHUB_SHA}"
-          git push origin HEAD:refs/heads/state
+          git -C out push origin HEAD:refs/heads/state
       - name: Upload
         uses: actions/upload-pages-artifact@v1
         with:
