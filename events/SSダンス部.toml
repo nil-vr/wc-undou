@@ -2,7 +2,6 @@ timezone = "Asia/Tokyo"
 start = "22:00"
 duration = "2:00"
 hashtag = "SSダンス部"
-weeks = [2, 3, 4, 5]
 
 [days.wednesday]
 
