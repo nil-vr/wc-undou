@@ -1,0 +1,10 @@
+timezone = "Asia/Tokyo"
+start = "22:00"
+duration = "2:00"
+hashtag = "すいだんす"
+
+[days.wednesday]
+
+[[join]]
+name = "sui（すい）"
+id = "usr_f875f33b-6365-41c5-8a55-925e9086e275"
