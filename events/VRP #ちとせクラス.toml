@@ -1,0 +1,9 @@
+timezone = "Asia/Tokyo"
+start = "20:30"
+duration = "1:30"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "ちとせ音投げ即興練習会"
+weeks = [2, 4]
+
+[days.friday]

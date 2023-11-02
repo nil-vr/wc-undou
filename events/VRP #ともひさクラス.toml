@@ -1,0 +1,8 @@
+timezone = "Asia/Tokyo"
+start = "20:30"
+duration = "1:30"
+group = "VRP.4653"
+discord = "NCq7kvtCMJ"
+hashtag = "ともひさクラス"
+
+[days.tuesday]
