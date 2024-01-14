@@ -3,12 +3,8 @@ start = "21:30"
 duration = "1:00"
 hashtag = "ゆるふわパラパラ部"
 twitter = "yuru_para"
-group = "PARA.6038"
+group = "PARA.6083"
 platforms = ["pc", "quest"]
-
-canceled = [
-  "2023-05-17"
-]
 
 [[join]]
 name = "Izumi_Mizuha"
