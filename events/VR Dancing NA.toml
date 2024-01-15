@@ -6,6 +6,9 @@ discord = "vrdancing"
 twitter = "VRD_Official"
 hashtag = "vrdancing"
 web = "https://vrdancing.club/"
+group = "VRD.9523"
 
 [days.wednesday]
+name = "VR Dancing NA Open Session"
+
 [days.saturday]
