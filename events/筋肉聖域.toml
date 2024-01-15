@@ -3,6 +3,10 @@ start = "18:00"
 duration = "1:30"
 hashtag = "筋肉聖域"
 platforms = ["pc", "quest"]
+group = "MUSCLE.2731"
+
+[languages.en]
+name = "MUSCLE SANCTUARY"
 
 [world]
 name = "筋肉聖域 -MUSCLE SANCTUARY-"
