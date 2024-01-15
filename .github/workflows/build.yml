@@ -15,12 +15,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup Wasmer
-        uses: wasmerio/setup-wasmer@v3
       - name: Checkout
         uses: actions/checkout@v3
       - name: Download compiler
-        run: curl -fLO https://github.com/nil-vr/wc-compiler/releases/download/0.2.0/wc-compiler.wasm
+        run: curl -fLO https://github.com/nil-vr/WeeklyCalendar/releases/download/0.3.0/wc-compiler && chmod a+x wc-compiler
       - name: Get state
         # If this is the first time there won't be a state branch.
         # If we fail to download the state branch for some other reason it's okay.
@@ -34,7 +32,7 @@ jobs:
           fi
           git -C out reset --hard
       - name: Build
-        run: wasmer run --dir . wc-compiler.wasm events out
+        run: ./wc-compiler events out web
       - name: Save state
         run: |
           git config user.name github-actions
@@ -45,7 +43,7 @@ jobs:
       - name: Upload
         uses: actions/upload-pages-artifact@v1
         with:
-          path: out
+          path: web
 
   publish:
     needs: build
