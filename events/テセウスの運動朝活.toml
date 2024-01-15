@@ -4,3 +4,6 @@ duration = "0:20"
 hashtag = "テセウスの運動朝活"
 group = "VMACHO.3774"
 platforms = ["pc", "quest"]
+
+[languages.en]
+name = "Morning Fitness of Theseus"
