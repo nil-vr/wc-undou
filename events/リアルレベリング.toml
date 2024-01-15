@@ -13,3 +13,6 @@ id = "usr_31c266d1-17a9-4daa-95fe-532c9bc1f0c0"
 [days.wednesday]
 [days.thursday]
 [days.friday]
+
+[languages.en]
+name = "Real Level Up!"
