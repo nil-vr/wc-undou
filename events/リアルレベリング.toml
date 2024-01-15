@@ -1,0 +1,15 @@
+timezone = "Asia/Tokyo"
+start = "22:30"
+duration = "0:15"
+hashtag = "リアルレベリング"
+platforms = ["pc", "quest"]
+
+[[join]]
+name = "魔王 K"
+id = "usr_31c266d1-17a9-4daa-95fe-532c9bc1f0c0"
+
+[days.monday]
+[days.tuesday]
+[days.wednesday]
+[days.thursday]
+[days.friday]
