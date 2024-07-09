@@ -16,9 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Download compiler
-        run: curl -fLO https://github.com/nil-vr/WeeklyCalendar/releases/download/0.3.2/wc-compiler && chmod a+x wc-compiler
+        run: curl -fLO https://github.com/nil-vr/WeeklyCalendar/releases/download/0.3.4/wc-compiler && chmod a+x wc-compiler
       - name: Get state
         # If this is the first time there won't be a state branch.
         # If we fail to download the state branch for some other reason it's okay.
@@ -41,7 +41,7 @@ jobs:
           git -C out commit -m "build ${GITHUB_SHA}"
           git -C out push origin HEAD:refs/heads/state
       - name: Upload
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: web
 
@@ -57,4 +57,4 @@ jobs:
     steps:
       - name: Deploy
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
