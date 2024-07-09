@@ -1,0 +1,14 @@
+timezone = "Asia/Tokyo"
+start = "8:20"
+duration = "0:40"
+hashtag = "SoniDanceClub"
+group = "NEST.0380"
+
+[days.monday]
+[days.tuesday]
+[days.wednesday]
+[days.thursday]
+[days.friday]
+
+[languages.en]
+name = "Soni Dance Club"
