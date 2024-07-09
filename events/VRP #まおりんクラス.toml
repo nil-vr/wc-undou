@@ -1,5 +1,5 @@
 timezone = "Asia/Tokyo"
-start = "22:00"
+start = "21:00"
 duration = "1:00"
 group = "VRP.4653"
 discord = "NCq7kvtCMJ"
@@ -10,7 +10,7 @@ name = "柘榴石まおりん"
 id = "usr_1f1032f1-83c9-4fea-bf47-02c683f38e43"
 
 [days.monday]
-start = "22:00"
+start = "21:00"
 
 [days.saturday]
 start = "8:30"

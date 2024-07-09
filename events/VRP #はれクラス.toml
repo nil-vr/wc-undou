@@ -3,10 +3,10 @@ start = "22:00"
 duration = "1:00"
 group = "VRP.4653"
 discord = "NCq7kvtCMJ"
-hashtag = "のりおクラス"
+hashtag = "はれクラス"
 
 [[join]]
-name = "のりお709"
-id = "usr_dbdcba38-c0a5-4f42-9513-f45aef07f368"
+name = "Hare0829"
+id = "usr_db682464-a4c5-47bf-8300-9b9dd1bf451f"
 
 [days.wednesday]
