@@ -1,11 +1,13 @@
 timezone = "Asia/Tokyo"
-start = "21:30"
+start = "20:30"
 duration = "0:30"
 hashtag = "SFN_vrc"
 group = "SIKA.0541"
 discord = "pXeSvFs9Nn"
 twitter = "SFN_VRChat"
 
+[days.monday]
 [days.tuesday]
 [days.wednesday]
 [days.thursday]
+[days.friday]
