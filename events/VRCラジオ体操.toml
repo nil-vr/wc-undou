@@ -10,21 +10,21 @@ name = "kleava"
 id = "usr_4a63e022-cccf-4999-a988-ae77b863a517"
 
 [[join]]
+name = "hanyuu_hikaru"
+id = "usr_993c5807-cfcd-4007-8cd4-dd84f75e2884"
+
+[[join]]
+name = "Izumi_Mizuha"
+id = "usr_f48cd0d4-dad6-4cc9-a650-ff077ac103fa"
+
+[[join]]
 name = "yuu_777"
 id = "usr_a6379d3b-0723-4e82-9a60-dead7ce54a67"
-
-[[join]]
-name = "nanaura"
-id = "usr_07e66ff5-765a-449f-bbde-dc2d47389b32"
-
-[[join]]
-name = "akai_nana"
-id = "usr_40ffeb90-8bf4-4c9c-9bd6-d61d18e629af"
 
 [[join]]
 name = "ing"
 id = "usr_b1ce2db2-60c8-429a-a5b6-ddf3ca491b27"
 
 [[join]]
-name = "hanyuu_hikaru"
-id = "usr_993c5807-cfcd-4007-8cd4-dd84f75e2884"
+name = "akai_nana"
+id = "usr_40ffeb90-8bf4-4c9c-9bd6-d61d18e629af"
